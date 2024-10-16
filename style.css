@@ -1,0 +1,21 @@
+.container{
+    margin: 50px auto;
+    text-align: center;
+}
+#input-btn{
+   border-radius: 30px;
+   text-indent: 30px;
+   border-style: solid;
+}
+
+#submit-btn{
+    border-radius: 39px;
+    border: #ED3EF7;
+    background: #ED3EF7;
+}
+h3:hover{
+color: red;
+}
+p#temp:hover{
+    color:tan;
+}
